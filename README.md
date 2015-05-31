@@ -1,9 +1,6 @@
 # memorableIOSRepos
 A bunch of really handy iOS libraries I have come across
 
-# memorableIOSRepos
-A bunch of really handy iOS libraries I have come across
-
 ##UITableView
 * For when you have a simple tableView with a bunch of editable fields. `RETableViewManagerhttps` seems to provide a nice solution //github.com/romaonthego/RETableViewManager
 
