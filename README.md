@@ -27,4 +27,5 @@ A bunch of really handy iOS libraries I have come across
 * https://fastlane.tools is an automated tool for pretty much everything from making screenshots to submitting to iTunes Connect
 
 ##Utilities
-https://github.com/emaloney/CleanroomLogger is a clean logging framework for Swift similar to cocoa lumberjack
+* https://github.com/emaloney/CleanroomLogger is a clean logging framework for Swift similar to cocoa lumberjack
+* For a lovely color palette check out https://github.com/ViccAlexander/Chameleon
