@@ -21,6 +21,7 @@ A bunch of really handy iOS libraries I have come across. Dont forget to look [h
 * https://github.com/zipme/RQShineLabel Is a library that animates text by making letters fade in and out like the secret app
 * https://github.com/soffes/SAMGradientView/commit/eec861a80486b5dad5a3fc20e68a1b7de8956a1e - Something about being a nice wrapper around gradients 
 * https://github.com/jverdi/JVFloatLabeledTextField allows your textfields to always have placeholder text
+* https://github.com/PavelKatunin/DownloadButton very similar to the iOS App Store download button. Love buttons that animate their state 
 
 ##UICollectionView
 * https://github.com/terminatorover/RGCardViewLayout/blob/master/RGCardViewLayout.m is a collection view layout that uses a cool, 3D tinder like effect for swiping cells where they look like cards. Also done in the National Geographic App
