@@ -15,8 +15,12 @@ A bunch of really handy iOS libraries I have come across. Dont forget to look [h
 
 ##Cool Animatable Views
 * Nothing like a cool, jelly view https://github.com/inFullMobile/WobbleView?utm_campaign=iOS_Dev_Weekly_Issue_193&utm_medium=email&utm_source=iOS%2BDev%2BWeekly allows you to have a wobbling view similar to Skype, think jelly
+ 
+### Labels and Text
 * https://github.com/Yalantis/Preloader.Ophiuchus offers some great looking animations to labels. Very futuristic, some make it look like paint filling up a label
 * https://github.com/lexrus/LTMorphingLabel/blob/master/LTMorphingLabel/LTMorphingLabel.swift has some incredible effects on UILabel text changing
+* https://github.com/overboming/ZCAnimatedLabel is similar to MorphingLabel with some really cool effects for adding text to an existing label. Can have letters fly in from side for example 
+
 * When toggling a UISwitch you can paint the superview with a funky effect https://github.com/Ramotion/paper-switch
 * https://github.com/zipme/RQShineLabel Is a library that animates text by making letters fade in and out like the secret app
 * https://github.com/soffes/SAMGradientView/commit/eec861a80486b5dad5a3fc20e68a1b7de8956a1e - Something about being a nice wrapper around gradients 
