@@ -15,6 +15,7 @@ A bunch of really handy iOS libraries I have come across. Dont forget to look [h
 
 ##Cool Animatable Views
 * Nothing like a cool, jelly view https://github.com/inFullMobile/WobbleView?utm_campaign=iOS_Dev_Weekly_Issue_193&utm_medium=email&utm_source=iOS%2BDev%2BWeekly allows you to have a wobbling view similar to Skype, think jelly
+* https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition Is a fantastic Zoom transition 
  
 ### Labels and Text
 * https://github.com/Yalantis/Preloader.Ophiuchus offers some great looking animations to labels. Very futuristic, some make it look like paint filling up a label
