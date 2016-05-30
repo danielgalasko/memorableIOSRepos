@@ -1,5 +1,5 @@
 # memorableIOSRepos
-A bunch of really handy iOS libraries I have come across. Dont forget to look [here](https://github.com/cjwirth/awesome-ios-ui) first
+A bunch of really handy iOS libraries I have come across. Dont forget to look [here](https://github.com/cjwirth/awesome-ios-ui) first and then [Fantastic animations collection](https://github.com/onmyway133/fantastic-ios-animation)
 
 ##UITableView
 * For when you have a simple tableView with a bunch of editable fields. `RETableViewManagerhttps` seems to provide a nice solution //github.com/romaonthego/RETableViewManager
